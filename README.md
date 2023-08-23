@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jasonnoll
-- ⋈ I'm a security engineer @ [Albert](https://albert.com/)
-- We're [Hiring](https://albert.com/company/jobs/)
+- I'm a security engineer @ Benchling
 
 <!---
 jasonnoll/jasonnoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
